@@ -1,0 +1,16 @@
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\bin\Debug\net5.0\Laura.exe
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\bin\Debug\net5.0\Laura.deps.json
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\bin\Debug\net5.0\Laura.runtimeconfig.json
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\bin\Debug\net5.0\Laura.runtimeconfig.dev.json
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\bin\Debug\net5.0\Laura.dll
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\bin\Debug\net5.0\ref\Laura.dll
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\bin\Debug\net5.0\Laura.pdb
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\obj\Debug\net5.0\Laura.csproj.AssemblyReference.cache
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\obj\Debug\net5.0\Laura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\obj\Debug\net5.0\Laura.AssemblyInfoInputs.cache
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\obj\Debug\net5.0\Laura.AssemblyInfo.cs
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\obj\Debug\net5.0\Laura.csproj.CoreCompileInputs.cache
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\obj\Debug\net5.0\Laura.dll
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\obj\Debug\net5.0\ref\Laura.dll
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\obj\Debug\net5.0\Laura.pdb
+C:\Users\Juan Juarez\Desktop\practicas\practicas\Laura\obj\Debug\net5.0\Laura.genruntimeconfig.cache

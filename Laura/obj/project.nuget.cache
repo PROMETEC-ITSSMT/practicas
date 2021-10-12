@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vql7zMtJ0bfnHQ7IJ63UiE7Gb3p0HynlQa3UdXZi+L7TWMt37kwf+oAE9a1Ixa4fIqKulgkAeCoZX1HN5lA6zA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Juan Juarez\\Desktop\\practicas\\practicas\\Laura\\Laura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan Juarez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
